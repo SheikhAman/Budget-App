@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285943362484",
+    "project_id": "budget-app-3a037",
+    "storage_bucket": "budget-app-3a037.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285943362484:android:8938a35e2636d4e538f8e1",
+        "android_client_info": {
+          "package_name": "com.sheikhaman.budget_app_starting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285943362484-pp3cua1g1vtmbhd64q5f097gq0hf3goq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxYhfRFoRBA2wcWJFGjJrK5wwsr6Si3aQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285943362484-pp3cua1g1vtmbhd64q5f097gq0hf3goq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
