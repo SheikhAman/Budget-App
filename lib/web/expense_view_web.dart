@@ -148,7 +148,7 @@ class ExpenseViewWeb extends HookConsumerWidget {
         body: ListView(
           children: [
             SizedBox(
-              height: 30.0,
+              height: 25.0,
             ),
             // image+addIncome+total calculations
 
@@ -454,6 +454,9 @@ class ExpenseViewWeb extends HookConsumerWidget {
                   ),
                 ),
               ],
+            ),
+            SizedBox(
+              height: 5,
             ),
           ],
         ),
